@@ -6,7 +6,7 @@
   </a>
   <br />
   <b>云淡风轻</b>
-  <p align="center"> leetcode-test</p>
+  <p align="center"> leetcode-code</p>
   <p align="center">力扣刷题、平常学习、代码记录</p>
   
   <p align="center">
